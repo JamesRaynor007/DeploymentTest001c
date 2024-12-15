@@ -1,4 +1,4 @@
-from fastapi import fastapi, HTTPException
+from fastapi import FastAPI, HTTPException
 import pandas as pd
 import os
 
